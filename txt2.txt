@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Noga New text
-=======
-Noga Ko5a
->>>>>>> temp
+Noga Pulls
